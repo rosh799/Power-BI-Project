@@ -18,4 +18,4 @@ The Chocolate Sales Report 2022 dashboard provides insights into total sales, pr
 
  Weather Insights Dashboard
 A Power BI project that transforms raw weather data into a clean, interactive dashboard. It helps visualize temperature fluctuations, rainfall patterns, and atmospheric conditions over time using dynamic cards, charts, and slicers.
-![image alt] width="1914" height="1079" alt="Screenshot 2025-07-20 214417" src="https://github.com/user-attachments/assets/58bbdf3f-5c35-4408-8298-737f6abbf844" />
+![image alt]("https://github.com/user-attachments/assets/58bbdf3f-5c35-4408-8298-737f6abbf844")
