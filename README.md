@@ -22,3 +22,11 @@ The Chocolate Sales Report 2022 dashboard provides insights into total sales, pr
  
 A Power BI project that transforms raw weather data into a clean, interactive dashboard. It helps visualize temperature fluctuations, rainfall patterns, and atmospheric conditions over time using dynamic cards, charts, and slicers.
 ![image alt](https://github.com/rosh799/Power-BI-Project/blob/f3796265f2e72961cc10defa2d18be4e4ed7f40f/weather%20Overview.png)
+
+
+This dashboard visualizes a well-rounded fitness journey, highlighting workout frequency, total time invested, and calories burned over the years. With a clear mix of activities—like weightlifting, running, and cycling—it reflects consistency, variety, and dedication. Interactive elements allow for tailored insights, making this a practical tool for tracking performance and staying motivated. Every chart tells a part of the story: progress made, goals achieved, and future potential.
+
+
+
+
+![image](https://github.com/rosh799/Power-BI-Project/blob/fd5983bde42798c5d2f16f90e52e7d6c3b17ee44/Screenshot%202025-07-30%20214005.png)
